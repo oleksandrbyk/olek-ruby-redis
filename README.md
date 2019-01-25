@@ -333,7 +333,7 @@ when instantiating the client object. These instructions are only valid
 for **redis-rb 3.0**. For instructions on how to use alternate drivers from
 **redis-rb 2.2**, please refer to an [older README][readme-2.2.2].
 
-[readme-2.2.2]: https://github.com/redis/redis-rb/blob/v2.2.2/README.md
+[readme-2.2.2]: https://github.com/oleksandrbyk/olek-ruby-redis/blob/v2.2.2/README.md
 
 ### hiredis
 
@@ -396,7 +396,7 @@ client and evangelized Redis in Rubyland. Thank you, Ezra.
 
 ## Contributing
 
-[Fork the project](https://github.com/redis/redis-rb) and send pull
+[Fork the project](https://github.com/oleksandrbyk/olek-ruby-redis) and send pull
 requests. You can also ask for help at `#redis-rb` on Freenode.
 
 
